@@ -6,6 +6,12 @@ Stackit is a minimal question-and-answer platform designed to support collaborat
 
 ---
 
+## Email and names- 
+- Aparmit Srivastava - aparmitsrivastava1@gmail.com
+- Shubhankar Chauhan - shubhankarchauhan09@gmail.com
+- Soumya Tomar - soumyatomar31@gmail.com
+- Utkarsh Kumar Sinha - utkarshkumarsinha018@gmail.com
+
 ## 🚀 Features
 
 ### ✅ Core Functionality (Must-Have)
