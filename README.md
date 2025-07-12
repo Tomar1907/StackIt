@@ -2,7 +2,7 @@
 
 # 🧠 Stackit – A Minimal Q&A Forum Platform
 
-Stackit is a minimal question-and-answer platform designed to support collaborative learning and structured knowledge sharing. It's user-friendly, focused on simplicity, and inspired by the core experience of asking and answering questions in a community-driven environment.
+StackIt is a minimal question-and-answer platform designed to support collaborative learning and structured knowledge sharing. It's user-friendly, focused on simplicity, and inspired by the core experience of asking and answering questions in a community-driven environment.
 
 ---
 
