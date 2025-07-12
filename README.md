@@ -73,7 +73,7 @@ Authentication and role-based access control is handled by **[Clerk](https://cle
 - Next.js
 - TailwindCSS
 - React Router
-- ShadCN ui
+- Magic ui
 - TinyMCE (Rich Text Editor)
 - Clerk (Authentication)
 - Axios (API requests)
