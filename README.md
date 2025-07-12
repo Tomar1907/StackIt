@@ -70,19 +70,21 @@ Authentication and role-based access control is handled by **[Clerk](https://cle
 ## 🧱 Tech Stack
 
 ### Frontend
-- React.js
+- Next.js
 - TailwindCSS
 - React Router
-- React-Quill / TipTap (Rich Text Editor)
+- ShadCN ui
+- TinyMCE (Rich Text Editor)
 - Clerk (Authentication)
 - Axios (API requests)
 - React Select (for tags)
 
 ### Backend
 - Node.js + Express
-- MongoDB / PostgreSQL
+- MySQL
 - Socket.io (for real-time notifications)
 - Clerk Webhooks (for user role metadata)
+- PrismaORM
 
 ---
 
